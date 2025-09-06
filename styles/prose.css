@@ -1,0 +1,2 @@
+.prose-custom { @apply prose prose-slate max-w-none; }
+.prose-custom h1, .prose-custom h2, .prose-custom h3 { @apply text-slate-900; }

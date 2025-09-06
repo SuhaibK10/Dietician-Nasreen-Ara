@@ -19,7 +19,7 @@ export default function AboutPage() {
           <div className="md:col-span-2">
             <h2 className="text-2xl font-semibold text-slate-900">Gold Medalist • 10+ Years • Global Clients</h2>
             <p className="text-slate-700 mt-4">
-              I’m a <strong>Gold Medalist in Dietetics from Sambalpur University</strong> with over a decade of experience. I’ve served as a dietician with <strong>VLCC</strong> and <strong>HealthifyMe</strong>, helping thousands improve weight, hormones, and metabolic markers. Today I work with clients across <strong>India, UAE, UK, and USA</strong>, creating sustainable plans grounded in science and empathy.
+              I’m a <strong>🥇Gold Medalist in Dietetics from Sambalpur University</strong> with over a decade of experience. I’ve served as a dietician with <strong>VLCC</strong> and <strong>HealthifyMe</strong>, helping thousands improve weight, hormones, and metabolic markers. Today I work with clients across <strong>India, UAE, UK, and USA</strong>, creating sustainable plans grounded in science and empathy.
             </p>
             <p className="text-slate-700 mt-4">
               My approach is simple: <strong>no crash diets, no guilt</strong>—just practical, tasty food that fits your life, with structured follow-ups so your results last.

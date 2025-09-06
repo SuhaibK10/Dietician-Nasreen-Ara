@@ -22,10 +22,10 @@ export function Hero() {
         </motion.div>
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }}>
           <div className="inline-flex items-center gap-2 rounded-full bg-brand-gold/10 text-brand-gold px-3 py-1 text-xs font-medium">
-            Gold Medalist • Sambalpur University
+          🥇Gold Medalist • Sambalpur University
           </div>
           <h1 className="mt-4 text-3xl md:text-5xl font-semibold text-slate-900">
-            Gold Medalist Dietician with 10+ Years of Experience<br />Serving Clients Globally
+          🥇Gold Medalist Dietician with 10+ Years of Experience<br />Serving Clients Globally
           </h1>
           <p className="mt-4 text-slate-600">
             Ex-VLCC • Ex-HealthifyMe • Clients in USA, Dubai, Abu Dhabi, and UK. Science-based, empathetic, and sustainable nutrition coaching tailored to your lifestyle.
